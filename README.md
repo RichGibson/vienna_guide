@@ -488,6 +488,12 @@ vineyards within the city limits.
 
 - [Rondell Café am Cobenzl](https://weitsichtcobenzl.at/wp-content/uploads/2023/04/2023_04_05_rondell_menu_a4_de_web.pdf)
   The art and decorations, and the views, are great.
+  <a href="img/cobenzl_streeview_construction.png">
+  <img src="img/cobenzl_streeview_construction.png" width=600>
+  <br>
+  Streetview of Rondell café under construction
+  </a>
+    <hr>
 
 ## Twentieth District Brigittenau
 ## Twenty-first District Florisdorf

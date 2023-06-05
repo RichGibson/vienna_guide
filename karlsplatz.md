@@ -62,7 +62,7 @@ Secession U-Bahn entrance, Streetview
 <hr>
 
 <a href="img/karlsplatz_weidner_haupstrasse.png">
-<img="img/karlsplatz_weidner_haupstrasse.png" width=600> 
+<img="img/karlsplatz_weidner_haupstrasse.png" width=600>
 <br>
 Weidner Haupstrasse exit Streetview
 </a>

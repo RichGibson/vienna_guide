@@ -57,7 +57,7 @@ This is an appreciation, not a criticism. Watching a filmed performance
 of Carmen in front of the Rathaus with 5,000 other people and then 
 marveling as the film ends and the lights of the Rathaus are 
 dramatically relit is not less bone chillingly amazing just because the
-ratsplats is neogothic from 1872-1883 rather then 'real' gothic from
+Rathaus is neogothic from 1872-1883 rather then 'real' gothic from
 the 1300's.
 
 The Habsburg empire in the late 19th century created a stage upon which
@@ -89,7 +89,46 @@ happens and it has been happening here for 1800 years, and more.
 
 - [Journeys Paths through the city which I recommend](journeys.md)
 
+## Transit Excursions
 
+- Ring Tour
+  The Ringstrasse goes where the city walls once were. It encircles the first district,
+  and trams circle the first district along the Ringstrasse.
+
+  The Ringstrasse is made up of segments which feel like one road, but each name
+  reflects its' area. 
+  - Opernring
+  - Kärntner Ring
+  - Schubertring
+  - Stubenring
+  - Franz Josefs-Kai (which goes along the Donaukanal)
+  - Schottenring
+  - Universitätsring
+  - Doktor Karl Renner-Ring
+  - Burgring
+
+  There has been a tourist tram that circles the first district. But it may
+  have been a victim of the pandemic. 
+
+  But no mind! The 'better' alternative is to make your own Ringstrasse 
+  Tour by taking the #1 and #2 trams. 
+
+  Board the Tram 2 by the Opera going counter-clockwise. Change to Tram 1 at Schwedenplatz 
+  and that will take you back around to the Opera.
+
+  But fair warning, there are often demonstrations or other issues, and you can think 
+  that you are on the correct tram, but then it just does the wrong thing. So keep 
+  an eye on what is happening.
+
+  Rick Steves has a nice tour documenting the features along the Ringstrasse. 
+
+   
+
+## Sunday
+
+- The stores in Vienna are mostly closed on Sundays. But there are markets that remain open in some of 
+  the train and U-Bahn stations.
+  [An arbitrary article with a list of shops which are open](https://www.virtualvienna.net/living-in-vienna/shopping/open-sundays/)
 
 ## Resources
 
@@ -97,7 +136,8 @@ happens and it has been happening here for 1800 years, and more.
 - [City of Wien official map](https://www.wien.gv.at/stadtplan/en/)
 - [Lorenz Seidler - Esel](https://esel.at/) Office in the MQ, chronicler of Viennese culture. [His Kalendar](https://esel.at/termine) is good.
 - [Vienna Würstelstand](https://viennawurstelstand.com/) English guide to Vienna events
-- 
+-
+- [Convert OSM relations to mapable data](https://overpass-turbo.eu/#)
 
 ## Events
 
@@ -145,8 +185,8 @@ have opinions about the character of the different districts.
 The first district is small, about 1.2 km across, and the more interesting
 things are mostly close to each other
 
-- Stephansdom
-  St. Stephan's Cathedral
+- Stephansdom St. Stephan's Cathedral
+  Stephansplatz 3, 1010 Wien
 
   If you pick the exit from the U-Bahn station that passes the Virgelkapelle 
   then you will emerge from the ground to have the majesty of Stephansdom 
@@ -163,7 +203,8 @@ things are mostly close to each other
   resistance. The abbreviation for Österreich is OE. E is the fifth letter
   of the alphabet.
 
-- Buffet Trzesniewski Dorotheergasse, Schleifmühlgasse 11, 1040 Wien, Austria
+- Buffet Trzesniewski Dorotheergasse
+  Dorotheergasse 1, 1010 Wien  
   [Cute little sandwiches.](https://photos.app.goo.gl/enUcDy9ct71DoByn9)
 
   (there is another Buffet Trzesniewski on Mariahilfer Straße by the Zieglergasse
@@ -260,6 +301,28 @@ things are mostly close to each other
   Rathausstraße 6, 1010 Wien, Austria 
   Tucked near the Rathaus
 
+- [Burgkino, showing The Third Man](https://www.burgkino.at/specials/third-man)
+  Opernring 19 1010 Vienna
+  (about four blocks from the Living Hotel)
+
+- [Monument against war and fascism](https://www.ricksteves.com/watch-read-listen/read/articles/viennas-monument-against-war-and-fascism)
+  Augustinerstraße 8, 1010 Wien, Austria
+  This is an emotional spot. I recommend reading an article about it, and walking 
+  to it. It is across from the Albertina Museum, 
+
+## Second District
+
+- Praterstern U1 and U2 U-Bahn stop
+  Lots of restaurants, and a Billa (grocery store) that is open on Sunday.
+  And exit to go to the ...
+
+- [Prater](https://www.praterwien.com/startseite/)
+  Praterstern U1 and U2
+  Historic amusement park. Entrance is free, you pay for rides. Including the
+  historic Wiener Riesenrad, which features in [The Third Man](https://www.burgkino.at/specials/third-man)
+  
+
+
 ## Third District
 
 - [Kunst Haus Wien, Huntertwasser museum](https://www.kunsthauswien.com/en/)
@@ -284,6 +347,10 @@ things are mostly close to each other
 
   They have a Sarajevo room with artifacts of the execution of the Archduke,
   including the car he was shot in.
+
+- [Transport Museum Remise - Wiener Linien](https://www.wienerlinien.at/web/wl-en/transport-museum-remise)
+  Ludwig-Koeßler-Platz, 1030 Wien, Austria
+  Lots of historic trams and busses. And an U-Bahn simulator. I highly recommend!
 
 
 ## Fourth District
@@ -402,7 +469,7 @@ to Gumpendorfer Strasse, a block from Marea Alta
 
 - Hundertwasser incinerator
   Take the U4 or U6 to Spittelau, look out and you will see the Hundertwasser
-  designed incinerator.
+  designed incinerator. The station is large and is (to me) one of the fun stations.
 
 - Sigmund Freud Museum
   Berggasse 19, 1090 Wien, Austria
@@ -463,7 +530,7 @@ vineyards within the city limits.
 
   Take the U4 to Heiligenstadt, or the D Tram to Halteraugasse
 
-- Cobenzl or Kahlenberg 
+- Cobenzl and Kahlenberg 
   Hiking trails, gorgeous views, and some history to boot. 
   From the Heiligenstadt U4 station take the 38A. We went·
   all the way to [Kalenberg](https://en.wikipedia.org/wiki/Kahlenberg) and then we came back on the bus

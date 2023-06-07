@@ -61,4 +61,36 @@ of the most hipster areas of Vienna.
 
 ## D Tram
 
-## Vienna Ring, or use Tram 1 and Tram 2
+## Transit Excursions
+
+- Ring Tour
+  The Ringstrasse goes where the city walls once were. It encircles the first district,
+  and trams circle the first district along the Ringstrasse.
+
+  The Ringstrasse is made up of segments which feel like one road, but each name
+  reflects its' area. 
+  - Opernring
+  - Kärntner Ring
+  - Schubertring
+  - Stubenring
+  - Franz Josefs-Kai (which goes along the Donaukanal)
+  - Schottenring
+  - Universitätsring
+  - Doktor Karl Renner-Ring
+  - Burgring
+
+  There has been a tourist tram that circles the first district. But it may
+  have been a victim of the pandemic. 
+
+  But no mind! The 'better' alternative is to make your own Ringstrasse 
+  Tour by taking the #1 and #2 trams. 
+
+  Board the Tram 2 by the Opera going counter-clockwise. Change to Tram 1 at Schwedenplatz 
+  and that will take you back around to the Opera.
+
+  But fair warning, there are often demonstrations or other issues, and you can think 
+  that you are on the correct tram, but then it just does the wrong thing. So keep 
+  an eye on what is happening.
+
+  Rick Steves has a nice tour documenting the features along the Ringstrasse. 
+

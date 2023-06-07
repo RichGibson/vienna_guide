@@ -1,6 +1,6 @@
-# An idiossyncratic guide to some things which I like about Vienna
+# An idiosyncratic guide to some things which I like about Vienna
 
-This is an ideosyncratic guide to some things which I like about Vienna.
+This is an idiosyncratic guide to some things which I like about Vienna.
 It may grow to function as a 'real' guide, but really, if you have a 
 day or two, check out one of Rick Steve's guidebooks.
 
@@ -9,7 +9,7 @@ the Musickverein one night with a friend on a couple of 6 euro
 standing room tickets. And we were chatting with people who felt
 like they had gotten a 'deal' with their 30 euro tickets. 
 
-Bars: 4am is stndard closing time, but things like closing times
+Bars: 4am is the standard closing time, but things like closing times
 can be flexible.
 
 How to have fun in bars in Vienna? Just talk with people. As a 
@@ -22,54 +22,56 @@ As I was writing that a fellow fell over behind me. And Phillip said
 seemed like a nice guy. An extremely drunk nice guy. And he had some
 issues. A sick family member. And then he fell over.
 
-Shit happens. And your embarassment at not knowing how to order a beer
-in a foreign language is no greater then falling over drunk after drinking a 
+Shit happens. And your embarrassment at not knowing how to order a beer
+in a foreign language is no greater than falling over drunk after drinking a 
 bit too much because you are 'introverted, drunk, and grumpy.' And have a mother
 dying of cancer.
 
 What is real in a city which for hundreds of years has been 
-reinventing itself? A city of Historich where the natural history
+reinventing itself? A city of Historisch where the natural history
 museum and Adolf Loos can coexist.
 
 The city is old and it is as new and modern as a city can be. Deal
-with the dissonance. People living in apartments older then your 
+with the dissonance. People living in apartments older than your
 country who are also wild about Ikea. And a street art scene driven
 by people who could give fuck one about their 'Illustrious History.'
 
-Native Viennese learning their history from field trips to the first
-district who mostly just welcome the respite from school, who later pub crawl
-in 'the bermuda triangle' with no recognition that the 
-Schwedenplatz UBahn station was once a port for a roman garrison (check
-details) 1800 years ago, and who may notice the old church on the 
+Native Viennese learning their history from field trips to the First
+District who mostly just welcome the respite from school, who later pub crawl
+in 'the Bermuda Triangle' with no recognition that the 
+Schwedenplatz UBahn station is near where there was once a port for the Roman 
+garrison [Vindobona](https://en.wikipedia.org/wiki/Vindobona)
+1900 years ago (where emperor Marcus Aurelius died, in 180 AD).
+and who may notice the old church on the 
 corner, Rupert Kirche, but maybe they won't notice it. And if it is
-pointed out they ask 'is it old old, or reconstructed old.' Because they
-have filters for the cult of history, the nonesense which permeates
+pointed out they ask 'Is it old old, or reconstructed old.' Because they
+have filters for the cult of history, the nonsense which permeates
 the Viennese built environment.
 
-"Wow, this is like the home of christmas" and "These buildings are
-older then my country." But no, that is, not everything that appears
+"Wow, this is like the home of Christmas" and "These buildings are
+older than my country." But no, that is, not everything that appears
 old is old. The Ringstrasse was built in the area where the city walls
-once stood. The city walls that were torn down by Napoleon. And the
-neogothic city hall (Rathaus) is newer then a good number of the 
+once stood. The city walls that were partially torn down by by Napoleon. 
+And the neogothic city hall (Rathaus) is newer than a good number of the 
 buildings in downtown Pittsburgh.
 
 This is an appreciation, not a criticism. Watching a filmed performance
 of Carmen in front of the Rathaus with 5,000 other people and then 
 marveling as the film ends and the lights of the Rathaus are 
-dramatically relit is not less bone chillingly amazing just because the
-Rathaus is neogothic from 1872-1883 rather then 'real' gothic from
+dramatically relit is no less bone-chillingly amazing just because the
+Rathaus is neogothic from 1872-1883 rather than 'real' gothic from
 the 1300's.
 
 The Habsburg empire in the late 19th century created a stage upon which
-a great deal of the world's post WWII cultural life has been encouraged
+a great deal of the world's post-WWII cultural life has been encouraged
 to take place. It is as real as you want it to be, and if you doubt that,
-go to Michlerplatz and view the 1700 year old Roman Ruins. Or much 
+go to Michlerplatz and view the 1700 year-old Roman Ruins. Or much 
 newer, take the Ubahn to Stephansplatz and view VirgilKapelle, used as 
-a dump for the remains of the collapsed Magdalane chapel, burned in 1781,
-forgotten until being rediscoverd during contruction of the U-Bahn in 1973.
+a dump for the remains of the collapsed Magdalene chapel, burned in 1781,
+forgotten until being rediscovered during construction of the U-Bahn in 1973.
 
-You can exit the busy 21st century subway and take a peak at the 800 year
-old chapel. People painted crosses and mosaics on walls 800 years ago,
+You can exit the busy 21st-century subway and take a peak at the 
+800-year-old chapel. People painted crosses and mosaics on walls 800 years ago,
 and now you see it from the subway.
 
 Besser gehts nicht. Real, recreated, reimagined, repurposed, it all 
@@ -91,9 +93,9 @@ happens and it has been happening here for 1800 years, and more.
 
 ## Sunday
 
-- The stores in Vienna are mostly closed on Sundays. But there are markets that remain open in some of 
+- The stores in Vienna are mostly closed on Sundays. But some markets remain open in some of 
   the train and U-Bahn stations.
-  [An arbitrary article with a list of shops which are open](https://www.virtualvienna.net/living-in-vienna/shopping/open-sundays/)
+  [An arbitrary article with a list of shops that are open](https://www.virtualvienna.net/living-in-vienna/shopping/open-sundays/)
 
 ## Resources
 
@@ -102,7 +104,7 @@ happens and it has been happening here for 1800 years, and more.
 - [Lorenz Seidler - Esel](https://esel.at/) Office in the MQ, chronicler of Viennese culture. [His Kalendar](https://esel.at/termine) is good.
 - [Vienna Würstelstand](https://viennawurstelstand.com/) English guide to Vienna events
 -
-- [Convert OSM relations to mapable data](https://overpass-turbo.eu/#)
+- [Convert OSM relations to a mappable format](https://overpass-turbo.eu/#)
 
 ## Events
 
@@ -110,15 +112,16 @@ happens and it has been happening here for 1800 years, and more.
   Rathaus platz
   July 1st-September 3rd, 2023
 
-  There is often something happening in Rathausplatz. From a christmas 
+  There is often something happening in Rathausplatz. From a Christmas 
   market, to a skating wonderland, to other things, and then the film
   festival in the summer.
 
   Food and drink booths open at 11, and 'films' start when it gets dark.
-  They are filmed operas and concerts, and it is all great fun.
+  They show filmed operas and concerts, and it is all great fun.
 
 - [Guide to Open Air Cinemas](https://viennawurstelstand.com/guide/your-ultimate-guide-to-viennas-open-air-cinemas/)
 
+## People
 
 ## Markets
 
@@ -126,14 +129,15 @@ The Nachmarkt is the well know market. And it is fun. But many of the
 vendors absolutely will take advantage of you. If you want 100 g of
 olives, for example, you need to be absolutely firm.
 
-Or 100 g of cheese. It took us a week to finish the half kilo chunk
-of cheese that we got when we asked for 100 grams. 
+Or 100 g of cheese. It took us a week to finish the half-kilo chunk
+of cheese that we got when we asked for 100 grams (Christine wants
+to point out that we did absolutely finish it, and that it was delicious).
 
 There is a Flohmarkt on Saturdays from 6:30 am - 2:30 pm, or later. One
 way to experience this is to be out late and then stumble on the market
 when you are on your way home at 6:30 in the morning. 
 
-But for real markets, try the Viktor-Adler-Markt in the tenth district.
+But for real markets, try the Viktor-Adler-Markt in the Tenth District.
 
 
 
@@ -147,7 +151,7 @@ have opinions about the character of the different districts.
 
 ## First District
 
-The first district is small, about 1.2 km across, and the more interesting
+The First District is small, about 1.2 km across, and the more interesting
 things are mostly close to each other
 
 - Stephansdom St. Stephan's Cathedral
@@ -190,10 +194,10 @@ things are mostly close to each other
   Time is long, life is short, and you can have that truth smashed in your face
   in so many different ways, in so many different places. For me, being 
   surrounded by 400 years of history, 400 years of opinions on what to do 
-  when you are one of the more powerful people in the world but
+  when you are one of the most powerful people in the world but
   death still comes for you offers one of those reminders.
 
-  If you don't go to the crypt you can [skim the wikipedia pate](https://en.wikipedia.org/wiki/Imperial_Crypt)
+  If you don't go to the crypt you can [skim the wikipedia page](https://en.wikipedia.org/wiki/Imperial_Crypt)
   and get a lot of context about historical Vienna.
 
 - Augustinerkirche
@@ -204,7 +208,7 @@ things are mostly close to each other
   When I first visited the Augustiner, on a Saturday, an organist was practicing
   the same few bars of a piece that I don't know. And as organ music does, the
   music filled the church, and I stumbled on the memorial to Archduchess Maria
-  Christina by Antonio Canova. And since that visit I try to go back for a visit
+  Christina by Antonio Canova. And since then, I try to go back for a visit
   with the sculpture. There is another Canova, the Centaur, in the Kunsthistorisches
   museum. 
 
@@ -212,20 +216,21 @@ things are mostly close to each other
   Michaelerplatz 5, 1010 Wien, Austria
 
   When I took the tour in 2006 the guide told stories of how the caskets
-  in the Kaisergruft used to be as dilapedated as those in Michaelerkiche,
+  in the Kaisergruft used to be as dilapidated as those in Michaelerkiche,
   but that the Kaisergruft was then restored.
 
   For maximum creepy/momento mori crypt time I think the Michaelerkiche
   is tops. It is smaller and more intimate, and if you are lucky you
-  might get the guide who I had who lovingly caressed the dress on a 
+  might get the guide I had who lovingly caressed the dress on a
   corpse and described the fabric and the dress with love, as though it
-  was the latest in fashion. 
+  was the latest in fashion.
 
   Just because people are dead doesn't mean that they can't still be alive.
 
 - Bermuda Triangle
   Vienna is filled with history rubbing against the present. You can take
-  an escalator into a subway and the stone wall is actually a roman wall.
+  an escalator into a subway and the stone wall is actually a Roman wall,
+  or maybe just part of the mostly removed medieval city wall.
 
   And you can get lost in the Bermuda Triangle next to the oldest church
   in Vienna.
@@ -272,8 +277,11 @@ things are mostly close to each other
 
 - [Monument against war and fascism](https://www.ricksteves.com/watch-read-listen/read/articles/viennas-monument-against-war-and-fascism)
   Augustinerstraße 8, 1010 Wien, Austria
-  This is an emotional spot. I recommend reading an article about it, and walking 
-  to it. It is across from the Albertina Museum, 
+  This is an emotional spot. I recommend reading, reflecting, and going to it.
+  It is across from the Albertina Museum, 
+
+  In a related theme, look for the Stolperstein. Brass plaques in the sidewalk
+  marking the home from which a victim of the Holocaust was taken.  
 
 ## Second District
 
@@ -297,7 +305,7 @@ things are mostly close to each other
   six months, and I would regularly go to look at a couple of pieces and 
   then sit in the courtyard drinking a Melange.
 
-  For more Hundertwasser, see the Ninth district
+  For more Hundertwasser, see the Ninth District
 
 - [Fälschermuseum, Museum of Art Fakes](https://www.faelschermuseum.com/)
   Löwengasse 28, 1030 Wien, Austria
@@ -315,7 +323,7 @@ things are mostly close to each other
 
 - [Transport Museum Remise - Wiener Linien](https://www.wienerlinien.at/web/wl-en/transport-museum-remise)
   Ludwig-Koeßler-Platz, 1030 Wien, Austria
-  Lots of historic trams and busses. And an U-Bahn simulator. I highly recommend!
+  Lots of historic trams and busses. And an U-Bahn simulator. I highly recommend it!
 
 
 ## Fourth District
@@ -331,7 +339,7 @@ things are mostly close to each other
 
 - Café Schrödinger
   Wiedner Hauptstraße 8-10, 1040 Wien, Austria
-  Student cafe, by the technical uniersity, with low prices.
+  Student cafe, by the Technical University, with low prices.
   [Ham and Eggs](https://photos.app.goo.gl/52ECXoh3cgVhqu8J9) - About 4€
 
 - Tolstoy - Plant-Based Eatery
@@ -348,7 +356,7 @@ things are mostly close to each other
 
 - Bánh Mì
   Faulmanngasse 1, 1040 Wien, Austria
-  Tasty sandwiches, and the Pho is good.
+  Tasty sandwiches and the Pho is good.
 
 - [Johnny's Pub](https://johnnys-pub.at/) Fine Irish pub
   Schleifmühlgasse 11, 1040 Wien, Austria
@@ -358,7 +366,7 @@ things are mostly close to each other
 
 Phil 
 Gumpendorfer Str. 10 - 12, 1060 Wien, Austria
-bookstare and coffee shop like you would expect to find in a hip US neighborhood
+bookstore and coffee shop like you would expect to find in a hip US neighborhood
 
 Café Sperl
 Gumpendorfer Str. 11, 1060 Wien, Austria
@@ -367,7 +375,7 @@ Across the street from Phil. Old and new in the same area.
 
 Top Kino and Bar
 Rahlgasse 1, 1060 Wien, Austria
-Cool restaurant, bar, movie theatre. A block from Phil and Café Sperl
+Cool restaurant, bar, and movie theatre. A block from Phil and Café Sperl
 
 Marea Alta 
 Gumpendorfer Str. 28, 1060 Wien, Austria 
@@ -379,11 +387,11 @@ A shopping passage. Restaurants and stores, and it takes you down
 to Gumpendorfer Strasse, a block from Marea Alta  
 
 - Naschmarkt
-  The Naschmarkt is an experience. A mix of tourist businesses and well
-  loved by locals places. If one can, walk through once before buying things.
+  The Naschmarkt is an experience. A mix of tourist businesses and locally well-loved
+  places. If one can, walk through once before buying things.
   Prices for identical items vary wildly.
 
-  There are delicious restaurants, and restaurants that look just as 
+  There are delicious restaurants, and other restaurants that look just as 
   promising that are mediocre. 
 
   [At Li's Cooking with much more cheese than we intended](https://photos.app.goo.gl/8bdBciyYsSF4GBXZA)
@@ -392,7 +400,17 @@ to Gumpendorfer Strasse, a block from Marea Alta
   Naschmarkt Stand 126-129 Gegenüber von Theater an der, 1060 Wien, Austria
 
   I love Li's cooking. Asian, sushi, etc. A massive menu. Tasty food.
-  
+
+- [Haus des Meeres](https://www.haus-des-meeres.at/)
+  Fritz-Grünbaum-Platz 1, 1060 Wien, Austria
+
+  Aquarium and climbing wall in and on one of the three pairs of Flak tours
+  in Vienna.
+
+  With a giant sign reading 'Smashed to Pieces In the Still of the Night,' as a memorial
+  and warning against war and fascism.
+
+  Of note, the use of the genitive case in the name.
 
 ## Seventh District
 
@@ -406,7 +424,7 @@ to Gumpendorfer Strasse, a block from Marea Alta
   of resources about what is happening in the city. 
 
   The courtyard at the MQ is one of the great treasures of Vienna. Buy beer 
-  or liquor at the SPAR that is kitty corner to the museum, behind the 
+  or liquor at the SPAR that is kitty-corner to the museum, behind the 
   Künsthistorisches museum, and just hang out as, according to the 
   MuseumsQuartier, "the MuseumsQuartier is now often referred to as the “city’s living room.”
 
@@ -425,7 +443,7 @@ to Gumpendorfer Strasse, a block from Marea Alta
 
 - [Burggasse 21](http://www.burggasse21.com/) Art Gallery
   Burggasse 21, 1070 Wien, Austria
-  A cool gallery, including skate deck painting, Freud on a skateboard, other things.
+  A cool gallery, including skate deck painting, Freud on a skateboard, and other things.
   [The Gallery](https://photos.app.goo.gl/NAjcGH2Qu1nHjQ32A)
   [Me and the owner](https://photos.app.goo.gl/NAjcGH2Qu1nHjQ32A)
 
@@ -451,7 +469,7 @@ to Gumpendorfer Strasse, a block from Marea Alta
   Liechtensteinstraße 10, 1090 Wien, Austria
 
   Two blocks from the Freud museum. Pakistani food buffet, it is 'pay as you
-  wish.' I like the food well enough, but vegitarian's and vegans who I
+  wish.' I like the food well enough, but vegetarian's and vegans who I
   know absolutely love it.
 
 
@@ -502,15 +520,15 @@ vineyards within the city limits.
   to Cobenzl. and had a snack at Rondell Café am Cobenzl. 
 
   Kahlenberg is where Polish troops were when they helped to relieve the city from 
-  the Turks in the second seige of Vienna in 1683. The church is Polish, and has many
+  the Turks in the second siege of Vienna in 1683. The church is Polish and has many
   markers of the event.
 
-  Troops rushed down from Kahlenberg down towards the city walls. I have trouble
+  Troops rushed down from Kahlenberg towards the city walls. I have trouble
   walking across the parking lot. Rushing down the mountain fully armed 
   seems worth a bit of commemoration.
 
   Fun fact. The combined forces that drove off the Turks after several months
-  of seige left them in such disarray that they left many of their supply wagons, 
+  of siege left them in such disarray that they left many of their supply wagons, 
   including bags of coffee. And the Wieners took to coffee.
 
   [A history of Viennese coffee house culture](https://www.wien.gv.at/english/culture-history/viennese-coffee-culture.html)
@@ -546,7 +564,7 @@ vineyards within the city limits.
   people wake board on what looks like an aquatic ski lift.
 
   Cross over to the Donauinsel, the 21 km long island created as a side
-  effect of flood control work, and which is now crisscrossed with bicycle
+  effect of flood control work which is now crisscrossed with bicycle
   and walking trails and lots of entertaining places.
 
   Or follow the bike path to a FKK (Freikörperkultur-Free body culture, nude)
@@ -558,13 +576,13 @@ vineyards within the city limits.
 
 ## Excursions
 
+
+(incomplete, theoretically more to come)
 -Streetfood
 
 
--Getting to water, swimming and summer recreations, FKK, donauinsel,
+-Getting to water, swimming and summer recreations, FKK, Donauinsel,
 and Bad's of different sorts.
-
--MQ Bookstore, up and over, my version of the street art passage
 
 -The 'Big' classic European experience, Rick Steve's walking tour of
 downtown - reference his walk, versus the small version via 
@@ -572,10 +590,9 @@ the street art passage and spittalgasse. Rick Steve's talks about the
 'quintessential' european experience by Stephansdom, but there are also 
  more intimate versions.
 
-   - dritte man underground tour.
-'
--Donaukanal, walking, riding, grafitti walls. to the Huntertwasser
-incinirator.
+- dritte man underground tour.
+
+-Donaukanal, walking, riding, grafitti walls. 
 
 -Ringstrasse, 1 and 2 versus the 'official' tour. Discussion of the 
 buildings as Historiche (sp) recreation.
